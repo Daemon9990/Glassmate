@@ -26,7 +26,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "6611092598:AAE5xb7F3Re7JMqOao-e_8LnpCstycs
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 PICS = (environ.get('PICS', 'https://graph.org/file/b1b3e217a6cde9a687cea.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/b69af2db776e4e85d21ec.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
+MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/47093b3d3bb25d29b1e6b.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
@@ -72,9 +72,9 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+bhsmBwStCAUxYzNl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/TeluguzoneOFC')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Teluguzone0')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/TeluguZone0')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '') # Support Chat Link Without https:// or @
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/TeluguZone0') # Support Chat Link Without https:// or @
 
 # True Or False
 AI_SPELL_CHECK = bool(environ.get('AI_SPELL_CHECK', True))
