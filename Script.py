@@ -5,9 +5,7 @@
 
 class script(object):
     START_TXT = """<b><blockquote>Hᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
-    
     Mʏ Nᴀᴍe Is CinemaXplorers_Bot_Files ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ Movie Search Bot And Advanced Online Watching and Fast Download BOT But No Theatre Prints Available in MY DB So Dont Search Theatre Prints 🤷‍♂️
-
 
 <blockquote>𝙈𝘼𝙄𝙉𝙏𝘼𝙄𝙉𝙀𝘿  𝘽𝙔 : @TeluguZoneOFC</blockquote></b>"""
 
@@ -22,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Daemon9990'>Daemon</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Daemon990'>Daemon</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
