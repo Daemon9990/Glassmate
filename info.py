@@ -17,7 +17,7 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = environ.get('SESSION', 'TechVJBot')
+SESSION = environ.get('SESSION', 'TeluguZone_File1_sharing_bot')
 API_ID = int(environ.get('API_ID', '24830912'))
 API_HASH = environ.get('API_HASH', 'a1a1775593531b90850b8b82e3b14940')
 BOT_TOKEN = environ.get('BOT_TOKEN', "6611092598:AAE5xb7F3Re7JMqOao-e_8LnpCstycs6RGE")
@@ -143,7 +143,7 @@ if 'DYNO' in environ:
     ON_HEROKU = True
 else:
     ON_HEROKU = False
-URL = environ.get("URL", "https://testofvjfilter-1fa60b1b8498.herokuapp.com/")
+URL = environ.get("URL", "https://daemon-b4126937bc03.herokuapp.com/")
 
 
 # Rename Info : If True Then Bot Rename File Else Not
