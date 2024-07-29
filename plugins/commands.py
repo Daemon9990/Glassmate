@@ -27,7 +27,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Support Group 😍', url="https://t.me/GlassmatessSupportBot"),
+                InlineKeyboardButton('Support Group 😍', url="https://t.me/+IUNVbq6F8JRlNzdl"),
                 InlineKeyboardButton('Request Group 👀', url="https://t.me/+t_nPQhhrHgo1ZDM1")
             ],[
                 InlineKeyboardButton('Contact Admin ❤️', url="https://t.me/GlassmatessAdmin_Bot"),
@@ -66,7 +66,7 @@ async def start(client, message):
             buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Support Group 😍', url="https://t.me/GlassmatessSupportBot"),
+                InlineKeyboardButton('Support Group 😍', url="https://t.me/+IUNVbq6F8JRlNzdl"),
                 InlineKeyboardButton('Request Group 👀', url="https://t.me/+t_nPQhhrHgo1ZDM1")
             ],[
                 InlineKeyboardButton('Contact Admin ❤️', url="https://t.me/GlassmatessAdmin_Bot"),
@@ -149,7 +149,7 @@ async def start(client, message):
             buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Support Group 😍', url="https://t.me/GlassmatessSupportBot"),
+                InlineKeyboardButton('Support Group 😍', url="https://t.me/+IUNVbq6F8JRlNzdl"),
                 InlineKeyboardButton('Request Group 👀', url="https://t.me/+t_nPQhhrHgo1ZDM1")
             ],[
                 InlineKeyboardButton('Contact Admin ❤️', url="https://t.me/GlassmatessAdmin_Bot"),
@@ -205,7 +205,7 @@ async def start(client, message):
                 buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-                InlineKeyboardButton('Support Group 😍', url="https://t.me/GlassmatessSupportBot"),
+                InlineKeyboardButton('Support Group 😍', url="https://t.me/+IUNVbq6F8JRlNzdl"),
                 InlineKeyboardButton('Request Group 👀', url="https://t.me/+t_nPQhhrHgo1ZDM1")
             ],[
                 InlineKeyboardButton('Contact Admin ❤️', url="https://t.me/GlassmatessAdmin_Bot"),
