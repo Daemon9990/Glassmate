@@ -1968,12 +1968,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
         else:
             buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-        ],[
-            InlineKeyboardButton('😊 Request Group', url="https://t.me/+bhsmBwStCAUxYzNl"),
-            InlineKeyboardButton('🥱 About', callback_data='about')
-        ],[
-            InlineKeyboardButton('🧎 TeluguZone 🥳', url=CHNL_LNK)
-        ]]
+            ],[
+                InlineKeyboardButton('Support Group 😍', url="https://t.me/GlassmatessSupportBot"),
+                InlineKeyboardButton('Request Group 👀', url="https://t.me/Glassmatess_Files")
+            ],[
+                InlineKeyboardButton('Contact Admin ❤️', url="https://t.me/GlassmatessAdmin_Bot"),
+                InlineKeyboardButton('About 😁', callback_data='about')
+            ],[
+                     
+               InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+            ]]
         if CLONE_MODE == True:
             buttons.append([InlineKeyboardButton('🤖 Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ 🤖', callback_data='clone')])
         reply_markup = InlineKeyboardMarkup(buttons)
