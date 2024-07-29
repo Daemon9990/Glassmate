@@ -17,10 +17,10 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = environ.get('SESSION', 'TeluguZone_File1_sharing_bot')
+SESSION = environ.get('SESSION', 'GlassmatessFilesBot')
 API_ID = int(environ.get('API_ID', '24830912'))
 API_HASH = environ.get('API_HASH', 'a1a1775593531b90850b8b82e3b14940')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6611092598:AAE5xb7F3Re7JMqOao-e_8LnpCstycs6RGE")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6313047694:AAHvE-HwyiXdL7kl-Xd6P2-adeEbM4FhZFs")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
@@ -31,7 +31,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5
 
 # Admins, Channels & Users
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001934136386'))
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '809614790').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '809614790 1253389605').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
