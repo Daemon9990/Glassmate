@@ -234,11 +234,11 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b📂Fɪʟᴇɴᴀᴍᴇ : {file_caption}
+    CAPTION = """<b<code>📂Fɪʟᴇɴᴀᴍᴇ : {file_caption}
 
-<b> Size ⚙️: {file_size}
+<b> Size ⚙️: {file_size}</code>
 
-JOIN: [𝙏𝙀𝙇𝙐𝙂𝙐𝙕𝙊𝙉𝙀™](https://t.me/TeluguZone0)</b>""" 
+JOIN: [GLASSMATES](https://t.me/+uOR17RXDnjk1ZTRl)</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
