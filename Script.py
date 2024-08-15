@@ -234,12 +234,8 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b<code>📂Fɪʟᴇɴᴀᴍᴇ : {file_caption}
-
-<b> Size ⚙️: {file_size}</code>
-
-JOIN: [GLASSMATES](https://t.me/+uOR17RXDnjk1ZTRl)</b>""" 
-
+    CAPTION = """ 📂 <i><a href="https://t.me/+7zIhZW4NO5lhMzJl">{file_name}</a></i>\n\n"""
+    
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
